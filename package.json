@@ -1,6 +1,6 @@
 {
-  "name": "get-random",
-  "version": "1.0.0",
+  "name": "@josue7/get-random",
+  "version": "1.0.3",
   "description": "Get something Random",
   "main": "index.js",
   "types": "index.d.ts",
