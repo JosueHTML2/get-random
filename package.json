@@ -1,0 +1,21 @@
+{
+  "name": "get-random",
+  "version": "1.0.0",
+  "description": "Get something Random",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "get-random"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "number"
+  ],
+  "author": "Josué",
+  "license": "ISC"
+}
