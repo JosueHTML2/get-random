@@ -1,11 +1,11 @@
 {
   "name": "@josue7/get-random",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get something Random",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node .\\index.js"
   },
   "repository": {
     "type": "git",
